@@ -1,13 +1,12 @@
 body {
     margin: 0;
     padding: 0;
+    overflow:hidden;        /*using overflow property to remove scroll */
 }
 
 .images {
-    height: 99.5vh;
+    height: 100vh;
     width: 100%;
-    
-
 }
 
 .Slide {
